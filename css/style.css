@@ -1,50 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Barlow:wght@100;200;300;400;500;600;700;800;900&display=swap");
-#header {
-  width: 100%;
-  height: 100px;
-  background: #FFFFFF;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
-}
-#header .header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding-top: 20px;
-}
-#header .header--start {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-#header .header--start h1 {
-  font-weight: 500;
-  font-size: 10px;
-  line-height: 143.19%;
-  letter-spacing: 0.065em;
-  color: rgba(0, 0, 0, 0.6);
-}
-#header .header--center {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-#header .header--center h2 {
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 21px;
-  color: rgba(31, 46, 53, 0.8);
-  padding-left: 4%;
-}
-#header .header--end {
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  left: 81.32%;
-  right: 17.29%;
-  top: 41%;
-  bottom: 40.41%;
-  background: rgba(31, 46, 53, 0.8);
-}
+
 
 * {
   margin: 0;
@@ -62,6 +17,7 @@ a, a:hover {
 
 .container {
   width: 85%;
+  margin: 0 auto;
 }
 
 /*# sourceMappingURL=style.css.map */
