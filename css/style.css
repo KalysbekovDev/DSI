@@ -1,34 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Barlow:wght@100;200;300;400;500;600;700;800;900&display=swap");
-#welcome {
-  background: #F7F7F7;
-}
-#welcome .welcome {
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  padding: 60px 0;
-}
-#welcome .welcome--left img {
-  max-width: 500px;
-}
-#welcome .welcome--right {
-  max-width: 40%;
-}
-#welcome .welcome--right h1 {
-  font-weight: 500;
-  font-size: 32px;
-  line-height: 133.69%;
-  color: #1F2E35;
-}
-#welcome .welcome--right h1 span {
-  color: red;
-}
-#welcome .welcome--right p {
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 150%;
-  color: #30444E;
-}
+
 
 * {
   margin: 0;
